@@ -51,10 +51,8 @@ I’ll leave it up to you to handle CSV files using Office or cat.
 The design is memory-efficient: it avoids using simple `int` or `char` types and instead uses `std::int32_t` or `std::int16_t` for integer values.
 
 ## License
-Please refer to the LICENSE file for details.
 
 
 Translated with DeepL.com (free version)
 
-[description](LICENSE)
 license is "[LICENSE](LICENSE)"
